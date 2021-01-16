@@ -1,0 +1,13 @@
+C:\Users\Jennifer\Desktop\VeckansMat\VeckansMat\VeckansMat\bin\Debug\netcoreapp3.1\VeckansMat.exe
+C:\Users\Jennifer\Desktop\VeckansMat\VeckansMat\VeckansMat\bin\Debug\netcoreapp3.1\VeckansMat.deps.json
+C:\Users\Jennifer\Desktop\VeckansMat\VeckansMat\VeckansMat\bin\Debug\netcoreapp3.1\VeckansMat.runtimeconfig.json
+C:\Users\Jennifer\Desktop\VeckansMat\VeckansMat\VeckansMat\bin\Debug\netcoreapp3.1\VeckansMat.runtimeconfig.dev.json
+C:\Users\Jennifer\Desktop\VeckansMat\VeckansMat\VeckansMat\bin\Debug\netcoreapp3.1\VeckansMat.dll
+C:\Users\Jennifer\Desktop\VeckansMat\VeckansMat\VeckansMat\bin\Debug\netcoreapp3.1\VeckansMat.pdb
+C:\Users\Jennifer\Desktop\VeckansMat\VeckansMat\VeckansMat\obj\Debug\netcoreapp3.1\VeckansMat.csprojAssemblyReference.cache
+C:\Users\Jennifer\Desktop\VeckansMat\VeckansMat\VeckansMat\obj\Debug\netcoreapp3.1\VeckansMat.AssemblyInfoInputs.cache
+C:\Users\Jennifer\Desktop\VeckansMat\VeckansMat\VeckansMat\obj\Debug\netcoreapp3.1\VeckansMat.AssemblyInfo.cs
+C:\Users\Jennifer\Desktop\VeckansMat\VeckansMat\VeckansMat\obj\Debug\netcoreapp3.1\VeckansMat.csproj.CoreCompileInputs.cache
+C:\Users\Jennifer\Desktop\VeckansMat\VeckansMat\VeckansMat\obj\Debug\netcoreapp3.1\VeckansMat.dll
+C:\Users\Jennifer\Desktop\VeckansMat\VeckansMat\VeckansMat\obj\Debug\netcoreapp3.1\VeckansMat.pdb
+C:\Users\Jennifer\Desktop\VeckansMat\VeckansMat\VeckansMat\obj\Debug\netcoreapp3.1\VeckansMat.genruntimeconfig.cache
